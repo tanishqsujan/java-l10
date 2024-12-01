@@ -11,7 +11,6 @@ class hw {
         try {
             System.out.println("enter two numbers:");
             final int x = scanner.nextInt();
-            // int y = Integer.parseInt(args[1]);
             final int y = scanner.nextInt();
 
             final int z = x / y;
